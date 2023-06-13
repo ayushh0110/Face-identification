@@ -6,7 +6,7 @@ Steps to install:
 Use the "headshots_picam" file to capture images of face and save them in a folder named by your name in "data" folder
 
 
-Use "train_model" to train the model the model
+Use "train_model" to train the model 
 
 
 then run the "facial_req" for identification
